@@ -1,0 +1,16 @@
+{
+  "unique_knowledge_pairs": 8139,
+  "unique_ptm_herbs": 766,
+  "unique_ptm_symptoms": 457,
+  "hit_exact_herb_matches": 460,
+  "source_rows": {
+    "herb_symptom_knowledge.txt": 1309,
+    "herb_symptom_db_knowledge.txt": 1366,
+    "symptom_herb_tcm_mesh.txt": 1508,
+    "symptom_herb_tcm_mesh_long.txt": 2784,
+    "symptom_herb_tcm_mesh_cooccur.txt": 5976
+  },
+  "model_ready": false,
+  "blocking_requirement": "Reviewed Chinese symptom-to-UMLS mapping and fold-wise label masking",
+  "license_note": "PTM README states CKCEST data are for research use only."
+}

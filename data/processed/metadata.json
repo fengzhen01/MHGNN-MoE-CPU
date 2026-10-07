@@ -1,0 +1,28 @@
+{
+  "format_version": 1,
+  "num_proteins": 18505,
+  "feature_dim": 512,
+  "ppi_edges": 327924,
+  "datasets": [
+    {
+      "dataset": "HIT",
+      "num_herbs": 798,
+      "num_symptoms": 174,
+      "num_hyperedges": 972,
+      "positive_rows": 1480,
+      "positive_unique": 1436,
+      "incidences": 140815,
+      "proximity_rows": 137416
+    },
+    {
+      "dataset": "TCMIO",
+      "num_herbs": 461,
+      "num_symptoms": 174,
+      "num_hyperedges": 635,
+      "positive_rows": 1327,
+      "positive_unique": 1327,
+      "incidences": 293826,
+      "proximity_rows": 78887
+    }
+  ]
+}

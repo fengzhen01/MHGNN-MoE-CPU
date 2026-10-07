@@ -1,0 +1,102 @@
+[
+  {
+    "dataset": "HIT",
+    "fold": 1,
+    "identical": true
+  },
+  {
+    "dataset": "HIT",
+    "fold": 2,
+    "identical": true
+  },
+  {
+    "dataset": "HIT",
+    "fold": 3,
+    "identical": true
+  },
+  {
+    "dataset": "HIT",
+    "fold": 4,
+    "identical": true
+  },
+  {
+    "dataset": "HIT",
+    "fold": 5,
+    "identical": true
+  },
+  {
+    "dataset": "HIT",
+    "fold": 6,
+    "identical": true
+  },
+  {
+    "dataset": "HIT",
+    "fold": 7,
+    "identical": true
+  },
+  {
+    "dataset": "HIT",
+    "fold": 8,
+    "identical": true
+  },
+  {
+    "dataset": "HIT",
+    "fold": 9,
+    "identical": true
+  },
+  {
+    "dataset": "HIT",
+    "fold": 10,
+    "identical": true
+  },
+  {
+    "dataset": "TCMIO",
+    "fold": 1,
+    "identical": true
+  },
+  {
+    "dataset": "TCMIO",
+    "fold": 2,
+    "identical": true
+  },
+  {
+    "dataset": "TCMIO",
+    "fold": 3,
+    "identical": true
+  },
+  {
+    "dataset": "TCMIO",
+    "fold": 4,
+    "identical": true
+  },
+  {
+    "dataset": "TCMIO",
+    "fold": 5,
+    "identical": true
+  },
+  {
+    "dataset": "TCMIO",
+    "fold": 6,
+    "identical": true
+  },
+  {
+    "dataset": "TCMIO",
+    "fold": 7,
+    "identical": true
+  },
+  {
+    "dataset": "TCMIO",
+    "fold": 8,
+    "identical": true
+  },
+  {
+    "dataset": "TCMIO",
+    "fold": 9,
+    "identical": true
+  },
+  {
+    "dataset": "TCMIO",
+    "fold": 10,
+    "identical": true
+  }
+]
